@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, meu nome é Robert Duran, desenvolvedor Front-End 👋
 
 <!--
 **R10Duran/R10Duran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
