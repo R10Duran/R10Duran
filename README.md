@@ -1,4 +1,4 @@
-## Olá, sou o Robert Duran!
+## Seja bem vindo! Sou o Robert Duran!
 
 <!--
 - 🔭 I’m currently working on ...
