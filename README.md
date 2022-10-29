@@ -12,18 +12,7 @@
 
 <div>
   <a href="https://github.com/R10Duran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R10Duran&show_icons=true&theme=radical" />
-  <img height="180em" src "https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R10Duran&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src "https://github-readme-stats.vercel.app/api/top-langs/?username=R10Duran&layout=compact&langs_count=16&theme=radical"/> 
 </div>
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
