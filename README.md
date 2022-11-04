@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 Estudo análise e desenvolvimento de sistemas na FIAP
-- 🌱 Atualemnete estou focado aprender sobre análise de dados
+- 🌱 Atualemnete estou focado em aprender sobre análise de dados
 - 🌎 Moro em Suzano-SP, tenho 22 anos
 
 
