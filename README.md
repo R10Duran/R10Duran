@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 Estudo análise e desenvolvimento de sistemas na FIAP
-- 🌱 Atualmente estou focado em aprender análise de dados
+- 🌱 Atualmente estou focado em Front-End com JS e Angular
 - 🌎 Moro em Suzano-SP, tenho 22 anos, apaixonado pela tecnologia
 
 
