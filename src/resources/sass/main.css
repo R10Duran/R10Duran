@@ -1,0 +1,140 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-size: 1.8rem;
+  -webkit-font-smoothing: antialiased;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button {
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+p {
+  font-weight: 400;
+  font-size: 1.6rem;
+  line-height: 2.4rem;
+}
+
+body .container {
+  width: 95%;
+  margin: 0 auto;
+  border: 5px solid;
+}
+
+header {
+  display: flex;
+  width: 100%;
+  height: 7rem;
+  border: 1px solid #fb2dfb;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 5% 0 5%;
+}
+header ul {
+  display: flex;
+  border: 2px solid #000;
+}
+header ul li {
+  padding: 1rem;
+  border: 1px solid #bbb;
+}
+header ul li a {
+  cursor: pointer;
+}
+
+main {
+  display: flex;
+}
+
+.left {
+  border: 1px solid rgba(255, 85, 255, 0.3333333333);
+  width: 35%;
+}
+.left .cardsLeft {
+  width: 80%;
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+.left .cardPerfil {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.right {
+  width: 100%;
+}
+.right .contentProjects {
+  width: 100%;
+  border: 2px solid;
+}
+.right .contentProjects .myProjects {
+  border: 1px solid;
+  display: flex;
+  align-items: center;
+}
+.right .contentProjects .cardsContent {
+  border: 6px solid;
+  display: flex;
+  align-items: center;
+}
+.right .contentProjects .cardsContent .cardProject {
+  width: 50%;
+  border: 1px solid;
+  padding: 2rem;
+  margin: 2rem;
+}
+.right .contentNetworking {
+  border: 10px solid;
+}
+.right .contentNetworking .networkPosts {
+  padding: 2rem;
+}
+.right .contentNetworking .networkPosts .networkContent {
+  border: 2px solid;
+  margin-top: 2rem;
+}
+.right .contentYoutube {
+  display: flex;
+  border: 10px solid;
+}
+.right .contentYoutube .youtubePosts {
+  width: 50%;
+  padding: 2rem;
+  border: 2px solid;
+}
+.right .contentYoutube .youtubePosts .contentVideo {
+  border: 2px solid;
+}
+
+footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+}/*# sourceMappingURL=main.css.map */
