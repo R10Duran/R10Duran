@@ -15,6 +15,8 @@ html {
 body {
   font-size: 1.8rem;
   -webkit-font-smoothing: antialiased;
+  background: rgb(34, 33, 44);
+  color: rgb(131, 126, 159);
 }
 
 img {
@@ -37,21 +39,24 @@ p {
 body .container {
   width: 95%;
   margin: 0 auto;
-  border: 5px solid;
 }
 
 header {
   display: flex;
   width: 100%;
   height: 7rem;
-  border: 1px solid #fb2dfb;
   align-items: center;
   justify-content: space-between;
   padding: 0 5% 0 5%;
+  background: rgba(0, 0, 0, 0.8);
+  -webkit-backdrop-filter: blur(10px);
+          backdrop-filter: blur(10px);
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 }
 header ul {
   display: flex;
-  border: 2px solid #000;
 }
 header ul li {
   padding: 1rem;
@@ -66,17 +71,16 @@ main {
 }
 
 .left {
-  border: 1px solid rgba(255, 85, 255, 0.3333333333);
-  width: 35%;
+  width: 50%;
 }
 .left .cardsLeft {
-  width: 80%;
-  border: 1px solid;
+  width: 90%;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin: 0 auto;
+  background: rgb(48, 47, 61);
+  padding: 2rem;
+  margin-top: 4rem;
+  border-radius: 1.5rem;
 }
 .left .cardPerfil {
   display: flex;
@@ -90,51 +94,96 @@ main {
 }
 .right .contentProjects {
   width: 100%;
-  border: 2px solid;
+  margin-top: 4rem;
 }
 .right .contentProjects .myProjects {
-  border: 1px solid;
   display: flex;
   align-items: center;
+  justify-content: space-between;
+  padding: 2rem;
+  margin: 2rem;
+  background: rgb(48, 47, 61);
+  border-radius: 1.5rem;
 }
 .right .contentProjects .cardsContent {
-  border: 6px solid;
   display: flex;
   align-items: center;
 }
 .right .contentProjects .cardsContent .cardProject {
   width: 50%;
-  border: 1px solid;
   padding: 2rem;
   margin: 2rem;
-}
-.right .contentNetworking {
-  border: 10px solid;
+  background: rgb(48, 47, 61);
+  border-radius: 1.5rem;
 }
 .right .contentNetworking .networkPosts {
   padding: 2rem;
 }
+.right .contentNetworking .networkPosts .myPosts {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem;
+  background: rgb(48, 47, 61);
+  border-radius: 1.5rem;
+}
 .right .contentNetworking .networkPosts .networkContent {
-  border: 2px solid;
-  margin-top: 2rem;
+  margin-top: 4rem;
+  padding: 2rem;
+  background: rgb(48, 47, 61);
+  border-radius: 1.5rem;
 }
 .right .contentYoutube {
   display: flex;
-  border: 10px solid;
 }
 .right .contentYoutube .youtubePosts {
   width: 50%;
   padding: 2rem;
-  border: 2px solid;
 }
 .right .contentYoutube .youtubePosts .contentVideo {
-  border: 2px solid;
+  padding: 2rem;
+  background: rgb(48, 47, 61);
+  border-radius: 1.5rem;
+}
+.right .form {
+  padding: 2rem;
+}
+.right .form .contentForm {
+  padding: 2rem;
+  background: rgb(48, 47, 61);
+  border-radius: 1.5rem;
+}
+.right .form .contentForm .cententInfoForm {
+  display: flex;
+  flex-direction: column;
+}
+.right .chatBot {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 20rem;
+  padding: 2rem;
+  bottom: 0rem;
+  position: -webkit-sticky;
+  position: sticky;
+}
+.right .chatBot .contentChatBot {
+  width: 8rem;
+  height: 8rem;
+  background: rgb(48, 47, 61);
+  border-radius: 100rem;
 }
 
 footer {
   width: 100%;
+  padding: 2rem;
+}
+footer div {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 2rem;
+}
+footer p {
+  display: flex;
+  justify-content: flex-end;
+  padding-right: 5rem;
 }/*# sourceMappingURL=main.css.map */
