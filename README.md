@@ -3,7 +3,7 @@
 
 - 👨‍💻 Estudo análise e desenvolvimento de sistemas na FIAP
 - 🌱 Atualmente estou focado em Front-End com JS e Angular
-- - Trabalho como Desenvolvedor Front-End na Faculdade Sumaré
+-  </> Trabalho como Desenvolvedor Front-End na Faculdade Sumaré
 - 🌎 Moro em Suzano-SP, tenho 22 anos, apaixonado pela tecnologia
 
 
