@@ -1,7 +1,7 @@
 ## Seja bem vindo! Sou o Robert Duran😄
 
 
-- 👨‍💻 Estudante de análise e desenvolvimento de sistemas na FIAP
+- 👨‍💻 Formado em análise e desenvolvimento de sistemas na FIAP
 - 🌱 Atualmente estou focado em Front-End com Flask em Python
 -  </> Trabalho como Desenvolvedor Front-End no Centro Universitário Sumaré
 - 🌎 Moro em Suzano-SP, tenho 23 anos, apaixonado pela tecnologia
